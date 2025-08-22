@@ -225,10 +225,10 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 📞 Contact
 
-**Gaindé IA Solutions**
-- Email: contact@gainde-ia.com
-- Téléphone: +221 XX XXX XX XX
-- Adresse: Dakar, Sénégal
+**AGINOVA SOMUTIONS SENEGAL**
+- Email: contact.aginova-solutions-senegal@gmail.com
+- Téléphone: +221 77402 76 56/+221 77 247 77 27
+- Adresse: 538,Cité Boudiouck, Saint Louis, Sénégal
 
 ## 🔄 Changelog
 
@@ -241,4 +241,5 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
 
-Développé avec ❤️ par Gaindé IA Solutions
+Développé avec ❤️ par AGINOVA SOMUTIONS SENEGAL
+
